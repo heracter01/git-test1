@@ -49,3 +49,10 @@ git_repo/
 git_repo_old/
 idx_wrk
 test_outside.txt
+git_repo_older/
+
+# 更多临时文件
+git_obsolete/
+idx3
+idx_fresh
+git_old2/
