@@ -43,3 +43,9 @@ System Volume Information/
 .git_old/
 .tmpgit/
 .tmpgit2/
+
+# 临时文件
+git_repo/
+git_repo_old/
+idx_wrk
+test_outside.txt
