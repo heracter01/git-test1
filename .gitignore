@@ -38,3 +38,8 @@ __pycache__/
 # 系统文件
 $RECYCLE.BIN/
 System Volume Information/
+
+# 临时目录
+.git_old/
+.tmpgit/
+.tmpgit2/
